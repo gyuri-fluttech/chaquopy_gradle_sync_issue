@@ -22,5 +22,9 @@ pluginManagement {
     }
 }
 
+plugins {
+    id "dev.flutter.flutter-plugin-loader" version "1.0.0"
+}
+
 rootProject.name = "chaquopy_gradle_sync_issue"
 include ':app'
