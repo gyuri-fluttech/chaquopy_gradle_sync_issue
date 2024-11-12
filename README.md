@@ -18,7 +18,7 @@
        flutter.sdk=/Users/gyuri/Tools/flutter
     ```
 
-
+# THE [WORKAROUND](https://github.com/chaquo/chaquopy/issues/1289#issuecomment-2469284947) WORKS
 
 # Gradle Sync Issue 
   You should see the following issue on Gradle Sync: 
